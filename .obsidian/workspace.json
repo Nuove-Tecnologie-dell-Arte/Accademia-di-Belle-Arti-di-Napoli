@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
+                "file": "STUDENTƏ/Mondo a rotoli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foglio B"
+              "title": "Mondo a rotoli"
             }
           },
           {
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUDENTƏ/Foglio A.md",
+                "file": "STUDENTƏ/Appunti assemblea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foglio A"
+              "title": "Appunti assemblea"
             }
           }
         ],
@@ -224,17 +224,19 @@
   },
   "active": "e91a611cbf4e17a9",
   "lastOpenFiles": [
+    "STUDENTƏ/TAG assemblea.md",
+    "STUDENTƏ/Mondo a rotoli.md",
+    "STUDENTƏ/Appunti assemblea.md",
+    "STUDENTƏ/STUDENTƏ.md",
+    "Appunti assemblea.md",
     "Accademia di Belle Arti di Napoli.md",
     "Pratulliu.md",
     "Prova.md",
-    "STUDENTƏ/Foglio B.md",
     "Senza nome.canvas",
     "2026-10-15.md",
     "README.md",
-    "STUDENTƏ/Foglio A.md",
     "Senza nome.base",
     "TAG/Sostenibilità ambientale.md",
-    "STUDENTƏ/STUDENTƏ.md",
     "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/IA e Nuove Tecnologie.md",
     "TAG/Archivio.md",
@@ -251,8 +253,6 @@
     "TAG/Modello Vienna x AFAM e ANVUR.md",
     "TAG/Blocco fondi per nuova sede.md",
     "Senza nome",
-    "TAG/Terza Missione sociale.md",
-    "TAG/Formazione con IA e Realtà immersiva.md",
     "STUDENTƏ",
     "TAG",
     "PDF PROGRAMMI/07102026_Rimettere la didattica al centro significa garantire l_compressed.pdf",
