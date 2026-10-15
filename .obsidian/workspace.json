@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd38a8f7baac5e77",
+        "id": "6be062fd91ac47f9",
         "type": "tabs",
         "children": [
           {
-            "id": "2113a6712f408a9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "a478759e082bd37e",
+            "id": "bc25c15405e952ac",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -168,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,13 +172,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cf862dd095f3177e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "prova.md"
+              },
+              "icon": "lucide-info",
+              "title": "Proprietà file"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,23 +206,24 @@
   },
   "active": "a478759e082bd37e",
   "lastOpenFiles": [
+    "prova.md",
+    "Accademia di Belle Arti di Napoli.md",
     "fracasso.md",
-    "STUDENTƏ/TAG assemblea.md",
     "STUDENTƏ/Mondo a rotoli.md",
     "STUDENTƏ/Appunti assemblea 20-10-2026.md",
-    "README.md",
-    "TAG/Archivio.md",
-    "Candidati alla direzione/Giuseppe Gaeta.md",
-    "Candidati alla direzione/Rosaria Iazzetta.md",
-    "Accademia di Belle Arti di Napoli.md",
+    "Prova.md",
+    "STUDENTƏ/TAG assemblea.md",
+    "STUDENTƏ/STUDENTƏ.md",
+    "Appunti assemblea.md",
     "Pratulliu.md",
-    "STUDENTƏ/Foglio A.md",
-    "STUDENTƏ/Foglio B.md",
+    "Senza nome.canvas",
+    "2026-10-15.md",
+    "README.md",
     "Senza nome.base",
     "TAG/Sostenibilità ambientale.md",
-    "STUDENTƏ/STUDENTƏ.md",
     "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/IA e Nuove Tecnologie.md",
+    "TAG/Archivio.md",
     "TAG/Ex Complesso Gesù delle Monache.md",
     "TAG/Orientamento.md",
     "TAG/Patrimonio e rete culturale.md",
@@ -237,7 +236,6 @@
     "TAG/Autonomia gestionale.md",
     "Senza nome",
     "STUDENTƏ",
-    "Senza nome.canvas",
     "TAG",
     "PDF PROGRAMMI/07102026_Rimettere la didattica al centro significa garantire l_compressed.pdf",
     "PDF PROGRAMMI/07102026_DOMANI DI CAPUA.pdf",
