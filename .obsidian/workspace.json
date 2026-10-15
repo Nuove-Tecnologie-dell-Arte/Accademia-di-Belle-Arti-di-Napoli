@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2113a6712f408a9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "a478759e082bd37e",
+            "id": "e91a611cbf4e17a9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,17 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0cdb8cea467ea55",
+  "active": "e91a611cbf4e17a9",
   "lastOpenFiles": [
-    "fracasso.md",
+    "STUDENTƏ/Appunti assemblea 20-10-2026.md",
+    "Prova.md",
     "STUDENTƏ/TAG assemblea.md",
     "STUDENTƏ/Mondo a rotoli.md",
-    "STUDENTƏ/Appunti assemblea 20-10-2026.md",
-    "README.md",
-    "TAG/Archivio.md",
-    "Candidati alla direzione/Giuseppe Gaeta.md",
     "Candidati alla direzione/Rosaria Iazzetta.md",
-    "Accademia di Belle Arti di Napoli.md",
     "Pratulliu.md",
     "STUDENTƏ/Foglio A.md",
     "STUDENTƏ/Foglio B.md",
@@ -225,6 +210,7 @@
     "STUDENTƏ/STUDENTƏ.md",
     "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/IA e Nuove Tecnologie.md",
+    "TAG/Archivio.md",
     "TAG/Ex Complesso Gesù delle Monache.md",
     "TAG/Orientamento.md",
     "TAG/Patrimonio e rete culturale.md",
@@ -235,7 +221,10 @@
     "Senza nome 1.md",
     "TAG/Laboratorio e pratica.md",
     "TAG/Autonomia gestionale.md",
+    "TAG/Modello Vienna x AFAM e ANVUR.md",
+    "TAG/Blocco fondi per nuova sede.md",
     "Senza nome",
+    "TAG/Terza Missione sociale.md",
     "STUDENTƏ",
     "Senza nome.canvas",
     "TAG",
