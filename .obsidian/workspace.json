@@ -206,7 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "ade5616777587429",
+=======
+  "active": "a478759e082bd37e",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "Prova colori.md",
     "Accademia di Belle Arti di Napoli.md",
