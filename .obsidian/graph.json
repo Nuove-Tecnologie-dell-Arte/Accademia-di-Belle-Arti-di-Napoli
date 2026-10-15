@@ -5,37 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Path:Accademia di Belle Arti di Napoli",
-      "color": {
-        "a": 1,
-        "rgb": 4026111
-      }
-    },
-    {
-      "query": "Path:\"Candidati alla direzione\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16771584
-      }
-    },
-    {
-      "query": "Path:TAG ",
-      "color": {
-        "a": 1,
-        "rgb": 16731599
-      }
-    },
-    {
-      "query": "path:STUDENTƏ  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6226454707938082,
-  "close": true
+  "scale": 1,
+  "close": false
 }
