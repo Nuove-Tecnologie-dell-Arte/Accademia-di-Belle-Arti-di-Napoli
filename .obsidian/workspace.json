@@ -172,9 +172,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cf862dd095f3177e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Proprietà file"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc25c15405e952ac",
+  "active": "cf862dd095f3177e",
   "lastOpenFiles": [
     "Accademia di Belle Arti di Napoli.md",
     "fracasso.md",
