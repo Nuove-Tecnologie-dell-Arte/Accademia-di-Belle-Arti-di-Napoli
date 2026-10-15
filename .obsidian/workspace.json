@@ -178,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "prova.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "Proprietà file"
             }
@@ -204,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a478759e082bd37e",
+  "active": "bc25c15405e952ac",
   "lastOpenFiles": [
     "prova.md",
     "Accademia di Belle Arti di Napoli.md",
