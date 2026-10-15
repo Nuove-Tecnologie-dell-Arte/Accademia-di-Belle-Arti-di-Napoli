@@ -11,14 +11,10 @@
             "id": "2113a6712f408a9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assorbenti in bagno"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           },
           {
@@ -225,12 +221,12 @@
   },
   "active": "2113a6712f408a9a",
   "lastOpenFiles": [
+    "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
     "PDF PROGRAMMI/07102026_Rimettere la didattica al centro significa garantire l_compressed.pdf",
     "PDF PROGRAMMI/IAZZETTA-Rosaria Iazzetta Candidatura alla Direzione_signed_compressed_compressed(1).pdf",
     "PDF PROGRAMMI/07102026_DOMANI DI CAPUA.pdf",
     "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/Approvvigionamento automatico dei laboratori.md",
-    "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
     "APPUNTI ASSEMBLEA/Senza nome.md",
     "Senza nome.md",
     "APPUNTI ASSEMBLEA",
