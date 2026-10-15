@@ -8,7 +8,7 @@
 
 
 
-[[Appunti assemblea]]
+[[Appunti assemblea 20-10-2026]]
 [[Mondo a rotoli]]
 [[TAG assemblea]]
 
