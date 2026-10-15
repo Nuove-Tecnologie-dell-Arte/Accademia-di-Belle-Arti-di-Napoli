@@ -11,13 +11,18 @@
             "id": "bc25c15405e952ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "fracasso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fracasso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "bc25c15405e952ac",
+=======
+  "active": "a478759e082bd37e",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "fracasso.md",
     "STUDENTƏ/Mondo a rotoli.md",
