@@ -41,8 +41,7 @@
               "title": "Assorbenti in bagno"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,19 +199,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "cf862dd095f3177e",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {},
-              "icon": "lucide-info",
-              "title": "Proprietà file"
-            }
->>>>>>> origin/main
           }
         ],
         "currentTab": 5
@@ -233,19 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-  "active": "161755aded2ef832",
+  "active": "2113a6712f408a9a",
   "lastOpenFiles": [
-    "APPUNTI ASSEMBLEA/Senza nome.md",
+    "TAG/Approvvigionamento automatico dei laboratori.md",
     "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
+    "APPUNTI ASSEMBLEA/Senza nome.md",
     "Senza nome.md",
     "APPUNTI ASSEMBLEA",
-=======
-  "active": "bc25c15405e952ac",
-  "lastOpenFiles": [
-    "Prova colori.md",
-    "prova.md",
->>>>>>> origin/main
     "Accademia di Belle Arti di Napoli.md",
     "fracasso.md",
     "STUDENTƏ/TAG assemblea.md",
@@ -269,13 +249,6 @@
     "TAG/Inclusione.md",
     "TAG/FOQUS.md",
     "TAG/Trasparenza.md",
-    "TAG/Transizione Universitaria.md",
-<<<<<<< HEAD
-=======
-    "Senza nome 1.md",
-    "TAG/Laboratorio e pratica.md",
-    "Senza nome",
->>>>>>> origin/main
     "STUDENTƏ",
     "Senza nome.canvas",
     "TAG",
