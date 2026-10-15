@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Path:TAG  ",
+      "query": "Path:TAG",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16740581
+      }
+    },
+    {
+      "query": "path:STUDENTƏ  ",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
+      }
+    },
+    {
+      "query": "path:\"Candidati alla direzione\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "File: Accademia di Belle Arti di Napoli",
+      "color": {
+        "a": 1,
+        "rgb": 57855
       }
     }
   ],
