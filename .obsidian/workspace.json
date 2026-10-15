@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd38a8f7baac5e77",
+        "id": "6be062fd91ac47f9",
         "type": "tabs",
         "children": [
           {
-            "id": "2113a6712f408a9a",
+            "id": "bc25c15405e952ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
+                "file": "ciao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assorbenti in bagno"
-            }
-          },
-          {
-            "id": "a478759e082bd37e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "161755aded2ef832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assorbenti in bagno"
+              "title": "ciao"
             }
           }
         ]
@@ -79,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -185,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUDENTƏ/Foglio B.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,13 +176,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cf862dd095f3177e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ciao.md"
+              },
+              "icon": "lucide-info",
+              "title": "Proprietà file"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,43 +208,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2113a6712f408a9a",
+  "active": "bc25c15405e952ac",
   "lastOpenFiles": [
-    "PDF PROGRAMMI/07102026_Rimettere la didattica al centro significa garantire l_compressed.pdf",
-    "PDF PROGRAMMI/IAZZETTA-Rosaria Iazzetta Candidatura alla Direzione_signed_compressed_compressed(1).pdf",
-    "PDF PROGRAMMI/07102026_DOMANI DI CAPUA.pdf",
-    "TAG/Academic Press (Edizioni dell'Istituto).md",
-    "TAG/Approvvigionamento automatico dei laboratori.md",
+    "ciao.md",
     "APPUNTI ASSEMBLEA/Assorbenti in bagno.md",
-    "APPUNTI ASSEMBLEA/Senza nome.md",
-    "Senza nome.md",
-    "APPUNTI ASSEMBLEA",
     "Accademia di Belle Arti di Napoli.md",
-    "fracasso.md",
-    "STUDENTƏ/TAG assemblea.md",
-    "STUDENTƏ/Mondo a rotoli.md",
     "STUDENTƏ/Appunti assemblea 20-10-2026.md",
-    "README.md",
-    "TAG/Archivio.md",
-    "Candidati alla direzione/Giuseppe Gaeta.md",
-    "Candidati alla direzione/Rosaria Iazzetta.md",
+    "APPUNTI ASSEMBLEA",
+    "Prova colori.md",
+    "prova.md",
+    "fracasso.md",
+    "STUDENTƏ/Mondo a rotoli.md",
+    "Prova.md",
+    "STUDENTƏ/TAG assemblea.md",
+    "STUDENTƏ/STUDENTƏ.md",
+    "Appunti assemblea.md",
     "Pratulliu.md",
-    "STUDENTƏ/Foglio A.md",
-    "STUDENTƏ/Foglio B.md",
+    "Senza nome.canvas",
+    "2026-10-15.md",
+    "README.md",
     "Senza nome.base",
     "TAG/Sostenibilità ambientale.md",
-    "STUDENTƏ/STUDENTƏ.md",
+    "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/IA e Nuove Tecnologie.md",
+    "TAG/Archivio.md",
     "TAG/Ex Complesso Gesù delle Monache.md",
     "TAG/Orientamento.md",
     "TAG/Patrimonio e rete culturale.md",
     "TAG/Inclusione.md",
     "TAG/FOQUS.md",
+    "TAG/Trasparenza.md",
+    "TAG/Transizione Universitaria.md",
+    "Senza nome",
     "STUDENTƏ",
-    "Senza nome.canvas",
     "TAG",
+    "PDF PROGRAMMI/07102026_Rimettere la didattica al centro significa garantire l_compressed.pdf",
+    "PDF PROGRAMMI/07102026_DOMANI DI CAPUA.pdf",
     "PDF PROGRAMMI/Programma_Gaeta_ABANA_2026-2029 new (1).pdf",
-    "PDF PROGRAMMI",
-    "Candidati alla direzione/Giuseppe Gaeta"
+    "PDF PROGRAMMI/IAZZETTA-Rosaria Iazzetta Candidatura alla Direzione_signed_compressed_compressed(1).pdf",
+    "PDF PROGRAMMI"
   ]
 }
