@@ -178,13 +178,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "prova.md"
+              },
               "icon": "lucide-info",
               "title": "Proprietà file"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf862dd095f3177e",
+  "active": "e0cdb8cea467ea55",
   "lastOpenFiles": [
+    "prova.md",
     "Accademia di Belle Arti di Napoli.md",
     "fracasso.md",
     "STUDENTƏ/Mondo a rotoli.md",
@@ -231,7 +234,6 @@
     "Senza nome 1.md",
     "TAG/Laboratorio e pratica.md",
     "TAG/Autonomia gestionale.md",
-    "TAG/Modello Vienna x AFAM e ANVUR.md",
     "Senza nome",
     "STUDENTƏ",
     "TAG",
