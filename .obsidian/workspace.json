@@ -23,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUDENTƏ/Foglio A.md",
+                "file": "Pratulliu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foglio A"
+              "title": "Pratulliu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e91a611cbf4e17a9",
+  "active": "2113a6712f408a9a",
   "lastOpenFiles": [
+    "STUDENTƏ/Foglio A.md",
     "Pratulliu.md",
     "STUDENTƏ/Foglio B.md",
-    "STUDENTƏ/Foglio A.md",
     "Senza nome.base",
     "TAG/Sostenibilità ambientale.md",
     "STUDENTƏ/STUDENTƏ.md",
