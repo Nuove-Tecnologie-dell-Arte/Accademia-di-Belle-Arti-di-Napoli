@@ -4,3 +4,10 @@
 .obsidian/graph.json
 .obsidian/cache
 .obsidian/workspaces.json
+
+# Stato locale di Obsidian (diverso per ogni dispositivo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache
