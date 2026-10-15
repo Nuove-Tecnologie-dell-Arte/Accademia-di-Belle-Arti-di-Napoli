@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e91a611cbf4e17a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
             "id": "2113a6712f408a9a",
             "type": "leaf",
             "state": {
@@ -27,8 +17,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,6 +197,11 @@
   },
   "active": "2113a6712f408a9a",
   "lastOpenFiles": [
+    "README.md",
+    "TAG/Archivio.md",
+    "Candidati alla direzione/Giuseppe Gaeta.md",
+    "Candidati alla direzione/Rosaria Iazzetta.md",
+    "Accademia di Belle Arti di Napoli.md",
     "Pratulliu.md",
     "STUDENTƏ/Foglio A.md",
     "STUDENTƏ/Foglio B.md",
@@ -216,7 +210,6 @@
     "STUDENTƏ/STUDENTƏ.md",
     "TAG/Academic Press (Edizioni dell'Istituto).md",
     "TAG/IA e Nuove Tecnologie.md",
-    "TAG/Archivio.md",
     "TAG/Ex Complesso Gesù delle Monache.md",
     "TAG/Orientamento.md",
     "TAG/Patrimonio e rete culturale.md",
@@ -232,10 +225,6 @@
     "Senza nome",
     "TAG/Terza Missione sociale.md",
     "TAG/Formazione con IA e Realtà immersiva.md",
-    "TAG/Materioteca e Multimedia Center.md",
-    "TAG/Career & ABANA Service.md",
-    "TAG/Metodo V.I.T..md",
-    "TAG/Aula Docenti.md",
     "STUDENTƏ",
     "Senza nome.canvas",
     "TAG",
