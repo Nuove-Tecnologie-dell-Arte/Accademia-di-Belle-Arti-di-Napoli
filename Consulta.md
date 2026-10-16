@@ -1,3 +1,6 @@
+[[moda automatica]], [[chic tecnologia]]
+Automatic is very chic
+
 [[prova]], [[test]]
 Ultimo test prima dell'automazione
 
