@@ -1,3 +1,6 @@
+[[romanzo]], [[libro]]
+Mo si deve rompere per forza
+
 [[moda automatica]], [[chic tecnologia]]
 Automatic is very chic
 
