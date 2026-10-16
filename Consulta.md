@@ -1,3 +1,6 @@
+[[lettura]], [[libro]]
+secondo me adesso leggete
+
 [[messaggio]], [[interesse]]
 ad esempio massimiliano è interessato!
 
