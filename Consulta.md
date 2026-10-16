@@ -1,27 +1,24 @@
-[[amici]], [[incontro]]
+[[amici]], [[ritrovo]]
 Chissà se lo vediamo
 
-[[amici]], [[incontro]]
-Chissà se lo vediamo
-
-[[lettura]], [[libro]]
+[[commento]], [[pensieri]]
 secondo me adesso leggete
 
-[[messaggio]], [[interesse]]
+[[interesse]], [[amici]]
 ad esempio massimiliano è interessato!
 
 [[tentativo]], [[speranza]]
 questa volta secondo me funzionerà tutto
 
-[[ciao]], [[saluti]]
+[[ciao]], [[messaggio]]
 Ciaooo
 
-[[sveglia]], [[meditazione]]
+[[sveglia]], [[mente]]
 oggi mi sono svegliato, avevo la testa libera
 
-[[gioco]], [[sperimentale]]
+[[risultati]], [[esame]]
 test52
 
-[[test]], [[sviluppo]]
+[[test]], [[prova]]
 test5
 
