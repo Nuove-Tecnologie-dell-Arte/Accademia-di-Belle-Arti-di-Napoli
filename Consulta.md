@@ -1,3 +1,6 @@
+[[prova]], [[test]]
+Ultimo test prima dell'automazione
+
 [[amici]], [[ritrovo]]
 Chissà se lo vediamo
 
