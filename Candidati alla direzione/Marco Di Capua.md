@@ -1,4 +1,4 @@
-![[07102026_DOMANI DI CAPUA.pdf]] programma
+![[07102026_DOMANI DI CAPUA.pdf]] 
 
 
 
