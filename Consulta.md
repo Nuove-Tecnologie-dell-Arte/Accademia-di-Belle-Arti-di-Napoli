@@ -1,3 +1,6 @@
+[[gruppo-stampante]], [[gestione-messaggi]]
+Ciao gruppo stampante, è il gruppo nebulosa obsidian che vi parla. Bisogna cancellare i messaggi vecchi altrimenti la nebulosa domani sarà piena di "ciao, come stai prova prova test" e altre cazzate. Risolvete. Subito.
+
 [[umorismo]], [[parodia]]
 bomboclat
 
