@@ -1,3 +1,6 @@
+[[muscolo]], [[anatomia]]
+Sternocleidomastoideo
+
 [[prova]], [[esame]]
 Ciao Giulia, ennesima prova
 
