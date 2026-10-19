@@ -1,3 +1,6 @@
+[[saluto]], [[ciao]]
+ciao buongiorno
+
 [[romanzo]], [[libro]]
 Mo si deve rompere per forza
 
