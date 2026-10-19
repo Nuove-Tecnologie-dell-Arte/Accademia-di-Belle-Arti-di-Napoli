@@ -1,3 +1,6 @@
+[[umorismo]], [[parodia]]
+bomboclat
+
 [[prova]], [[test]]
 prova3
 
