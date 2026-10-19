@@ -1,3 +1,6 @@
+[[offerta]], [[sconto]]
+pure 20 euro se possibile
+
 [[caffè]], [[mattina]]
 e portate 3 caffè
 
