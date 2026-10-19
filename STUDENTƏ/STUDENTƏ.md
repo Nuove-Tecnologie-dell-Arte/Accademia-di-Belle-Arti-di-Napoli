@@ -9,7 +9,7 @@
 
 
 [[Appunti assemblea 20-10-2026]]
-[[Mondo a rotoli]]
+[[Stampante]]
 [[TAG assemblea]]
 
 [[Consulta]]
