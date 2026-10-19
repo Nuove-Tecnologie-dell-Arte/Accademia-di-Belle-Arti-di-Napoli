@@ -1,3 +1,6 @@
+[[prova]], [[nuova]]
+prova nuova nuovissima originalissima
+
 [[nebulosa]], [[astronomia]]
 prova nebulosa
 
