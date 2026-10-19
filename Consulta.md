@@ -1,3 +1,6 @@
+[[ciao]], [[saluto]]
+ciao
+
 [[accademia di belle arti]], [[napoli]]
 Condividi la tua visione sul luogo che quotidianamente attraversiamo e abitiamo: l'Accademia di Belle Arti di Napoli. Attraverso il -raccoglitore? di ?"pensieri=, le voci di chi vive l'Accademia fanno emergere una direzione condivisa sul futuro di qu
 
