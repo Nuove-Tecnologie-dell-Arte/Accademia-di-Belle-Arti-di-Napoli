@@ -1,3 +1,6 @@
+[[nebulosa]], [[astronomia]]
+prova nebulosa
+
 [[risposta]], [[messaggi]]
 Rimando un messaggio
 
