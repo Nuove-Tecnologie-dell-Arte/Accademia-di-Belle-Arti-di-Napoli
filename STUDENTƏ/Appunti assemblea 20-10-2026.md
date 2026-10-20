@@ -41,6 +41,8 @@ Tenere fuori le aziende belliche dalle istituzioni. Tutte le [[lotte]] sono nece
 
 [[occupare]] per i problemi qua dentro e [[manifestare]] per i problemi là fuori. Cibo, acqua, tende, cuscini, materiali per [[organizzarsi]] . Mi fa piacere ci sia un [[collettivo]] attivo. 
 
+Una richiesta è sempre stata di lasciare l'[[accademia aperta dopo le 5]], perchè abbiamo bisogno di [[spazi collettivi]] . 
+
 
 
 
