@@ -1,3 +1,6 @@
+[[esplosione]], [[fuoco]]
+BOOM
+
 [[esplosione]], [[evento]]
 BOOM
 
