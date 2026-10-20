@@ -1,3 +1,6 @@
+[[educazione]], [[rivoluzione]]
+rivoluzione all'istruzione
+
 [[solidarietà]], [[amici]]
 Non sarete mai soli
 
