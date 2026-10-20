@@ -49,7 +49,8 @@ la manifestazione deve avere un [[segno estetico]]
 
 I Laboratori non si aprono senza docenti. 
 
-Il problema non è chi viene scelto come [[rettore]], ma il [[sistema]] che lo elegge. 
+Il problema non è chi viene scelto come [[rettore]], 
+ma il [[sistema]] che lo elegge. 
 
 
 
