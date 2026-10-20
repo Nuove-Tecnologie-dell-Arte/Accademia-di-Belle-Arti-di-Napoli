@@ -1,3 +1,6 @@
+[[crisi]], [[catastrofe]]
+puntiamo al disastro
+
 [[abitanti]], [[abitazione]]
 finchè non ci sarà uno scambio tra le persone che la abitano no
 
