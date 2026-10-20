@@ -1,3 +1,6 @@
+[[visione]], [[perspettiva]]
+La mia visione:
+
 [[prova]], [[test]]
 Prova
 
