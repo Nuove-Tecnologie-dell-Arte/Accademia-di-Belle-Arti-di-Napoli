@@ -1,3 +1,6 @@
+[[organizzazione]], [[gestione]]
+se solo ci fosse più organizzazione…
+
 [[organizzazione]], [[artisti]]
 la pessima organizzazione accademica porta al non crescere come artisti individuali
 
