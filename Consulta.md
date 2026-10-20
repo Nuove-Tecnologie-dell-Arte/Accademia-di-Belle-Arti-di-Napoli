@@ -1,3 +1,6 @@
+[[aiuto]], [[solidarietà]]
+per tutti coloro che soffrono mentalmente per questa realtà, ricordatevi che non siete soli <3
+
 [[visione]], [[perspettiva]]
 La mia visione:
 
