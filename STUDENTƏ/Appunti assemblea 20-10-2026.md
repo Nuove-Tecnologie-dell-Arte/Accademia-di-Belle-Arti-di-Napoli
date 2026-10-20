@@ -24,6 +24,9 @@ Simone ora sta capendo un po' di più [[assemblea]]
 Quanta roba hai scritto si chiede simone
 Assia chiede cosa stiamo facendo
 stasera si vede [[streetfighter]] con [[alfredo]] e [[federica]]
+Benedetta è un paio di anni che soffre di cefalea, e qualsiasi medicinale non fa passare il  mal di testa, ha provato in più fasi del sintomo, ora prova a prenderlo tra la fine della macchia e l'inizio del mal di testa, sperimenta sul suo corpo.
+entra gaia, e mi chiede se [[carlo]] è affidabile, la risposta di assia è [[no]]
+
 [[STUDENTƏ]]
 
 [[Consulta]]
