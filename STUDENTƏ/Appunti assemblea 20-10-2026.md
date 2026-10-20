@@ -10,7 +10,8 @@ benedetta sta soffrendo di emicrania, e vede delle macchie, il suo cuore batte o
 [[Simone]] sta capendo perchè non gli va il [[loop]]
 [[Benedetta]] la deve smettere
 [[Giulia]] sta facendo commit and sync mentre Benedetta perde tempo a cambiare i colori nonostante sia cieca
-Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e[[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]]
+Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e[[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]] 
+Simone ora sta capendo un po' di più 
 
 
 
