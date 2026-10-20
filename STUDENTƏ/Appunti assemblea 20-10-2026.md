@@ -51,6 +51,10 @@ I Laboratori non si aprono senza docenti.
 
 Il problema non è chi viene scelto come rettore, ma il [[sistema]] che lo elegge. 
 
+Avere la separazione degli spazi e delle sedi rende difficile la creazione di una comunità accademica. 
+
+[[controcena]]
+
 
 
 
