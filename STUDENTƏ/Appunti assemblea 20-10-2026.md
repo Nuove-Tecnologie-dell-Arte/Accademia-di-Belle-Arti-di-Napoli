@@ -21,8 +21,9 @@ Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo p
 Simone ora sta capendo un po' di più [[assemblea]]
 [[Benedetta]] gli fa male il gallo
 [[kekka]] fa un tocca e fuggi
-
-
+Quanta roba hai scritto si chiede simone
+Assia chiede cosa stiamo facendo
+stasera si vede [[streetfighter]] con [[alfredo]] e [[federica]]
 [[STUDENTƏ]]
 
 [[Consulta]]
