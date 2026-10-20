@@ -1,3 +1,6 @@
+[[emoticon]], [[sorriso]]
+Daiiii
+
 [[test]], [[stampa]]
 Test stampa
 
