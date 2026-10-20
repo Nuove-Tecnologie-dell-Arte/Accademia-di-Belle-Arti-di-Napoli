@@ -1,3 +1,12 @@
+[[educazione]], [[formazione]]
+L'accademia non forma piu artisti ne maestri
+
+[[fragilità]], [[resistenza]]
+ci spezzeremo prima di piegarci
+
+[[azione diretta]], [[comunicazione efficace]]
+se vogliamo risolvere le cose, bisogna agire in maniera diretta con la persona interessata e non in maniera generale
+
 [[educazione]], [[rivoluzione]]
 rivoluzione all'istruzione
 
