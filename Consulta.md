@@ -1,3 +1,6 @@
+[[daiii]], [[giochi]]
+Daiii
+
 [[organizzazione]], [[gestione]]
 se solo ci fosse più organizzazione…
 
