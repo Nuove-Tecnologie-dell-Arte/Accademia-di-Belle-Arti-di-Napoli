@@ -1,3 +1,6 @@
+[[speranza]], [[buone novità]]
+se nel mondo esistesse un po di bene…
+
 [[parole]], [[linguaggio]]
 parole parole parole
 
