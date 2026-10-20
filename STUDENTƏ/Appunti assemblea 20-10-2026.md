@@ -35,7 +35,7 @@ Tutto il [[potere]] è centralizzato nelle mani del direttore. Le [[informazioni
 
 Serve una [[mobilitazione interna]]
 
-
+Per intervenire sul nazionale prima devo agire sull'Accademia, non posso dividere e scindere, non si può cambiare il paese senza passare per il locale, e non si può agire sul locale estraniandosi dal contesto globale. 
 
 
 
