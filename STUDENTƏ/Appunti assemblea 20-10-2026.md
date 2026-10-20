@@ -11,7 +11,9 @@ Stanno smantellando l'intera comunità dei nostri professori. Gli [[orari]] camb
 
 Quali sono le proposte? Cosa può fare l'accademia o i docenti per formarci da artisti? Nessuno dei docenti ci ha mai insegnato come funziona fuori. Ripartiamo dai laboratori? 
 
-Ci manca la [[rete]] e la [[connessione]] in Accademia. L'agevolazione per i [[pacchetti Adobe]] c'è solo per i docenti 
+Ci manca la [[rete]] e la [[connessione]] in Accademia. L'agevolazione per i [[pacchetti Adobe]] c'è solo per i docenti.
+
+Non abbiamo [[fondi]]  [[materiale]] e [[finanziamenti]] 
 
 
 
