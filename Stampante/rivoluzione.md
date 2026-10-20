@@ -1,0 +1,8 @@
+[[lotte]]
+[[piazza]]
+[[studenti]]
+[[STUDENTƏ]]
+[[Boicottiamo]]
+[[occupare]]
+[[occupata]]
+[[occupazione]]

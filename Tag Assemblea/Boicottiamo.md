@@ -1,0 +1,5 @@
+[[piazza]]
+[[lotte]]
+[[occupare]]
+[[occupata]]
+[[occupazione]]
