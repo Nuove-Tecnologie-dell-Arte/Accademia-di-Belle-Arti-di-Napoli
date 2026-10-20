@@ -1,3 +1,6 @@
+[[lavoro]], [[impiego]]
+occupiamo
+
 [[scansione]], [[documenti]]
 Nono, dobbiamo scannare lui invece
 
