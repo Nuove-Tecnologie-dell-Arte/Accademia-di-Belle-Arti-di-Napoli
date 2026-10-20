@@ -1,0 +1,8 @@
+[[resistenza]]
+[[identità]]
+[[studenti]]
+[[STUDENTƏ]]
+[[sistema]]
+[[rivoluzione]]
+[[critica]]
+[[aiuto]]
