@@ -9,7 +9,7 @@
 
 
 [[Appunti assemblea 20-10-2026]]
-[[STUDENTƏ/TAG assemblea]]
+[[TAG assemblea]]
 
 [[Consulta]]
 
