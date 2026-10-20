@@ -1,3 +1,6 @@
+[[test]], [[stampa]]
+Test stampa
+
 [[daiii]], [[giochi]]
 Daiii
 
