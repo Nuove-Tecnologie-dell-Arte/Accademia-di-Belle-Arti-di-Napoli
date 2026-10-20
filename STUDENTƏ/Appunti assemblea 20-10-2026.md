@@ -58,7 +58,7 @@ Avere la separazione degli spazi e delle sedi rende difficile la creazione di un
 
 [[azione coordinata]] con tutte le accademie d'Italia
 
-abbiamo un [[obiettivo comune]]
+abbiamo un [[obiettivo comune]] andare contro il sistema e coinvolgere le persone che sono ormai rassegnate
 
 
 
