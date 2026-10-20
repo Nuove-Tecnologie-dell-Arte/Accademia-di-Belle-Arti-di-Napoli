@@ -19,8 +19,13 @@ La [[Galleria]] dell'Accademia non valorizza gli studenti.
 
 Più che dai docenti imparo tramite gli studenti. [[apprendimento orizzontale]]
 
-Serve maggiore [[velocità nell'assegnazione dei docenti]]
+Serve maggiore [[velocità nell'assegnazione dei docenti]] e una [[revisione dei criteri di assunzione dei docenti]], i professionisti con il curriculum più alto vengono ritenuti più competenti di docenti con esperienza nell'insegnamento.
 
+[[L'Accademia non deve finanziare il riarmo]]
+
+[[Rendere pubblici i bilanci dell'Accademia]]
+
+L'Accademia e il suo direttore hanno un posizionamento politico, non parliamo di questi problemi solo nelle assemblee, ma portiamole in piazza. 
 
 
 
