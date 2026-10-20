@@ -1,3 +1,6 @@
+[[scansione]], [[lavoro]]
+ci dobbiamo scannare col direttore
+
 [[apprendimento]], [[autonomia]]
 Paghiamo per apprendere e venire guidati, non dovremmo sentirci così smarritə.
 
