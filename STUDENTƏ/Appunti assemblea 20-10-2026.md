@@ -12,6 +12,10 @@ benedetta sta soffrendo di emicrania, e vede delle macchie, il suo cuore batte o
 [[Giulia]] sta facendo commit and sync mentre Benedetta perde tempo a cambiare i colori nonostante sia cieca
 Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e[[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]] 
 Simone ora sta capendo un po' di più 
+Ora proporrò alle mie [[compagne]] di struggle di parlare dell'accademia e fare qualche [[prova]] più sensata
+Benedetta assume un [[volfast]] dato da Simone che continua a non capire un cazzo. [[kekko]] entra in scena, e siamo tutti più [[felici]] 
+Simone si definisce [[fravecatore]] , ma chiaramente non capisce un cazzo
+[[Stampante]] è un ottimo medium per raccogliere pensieri 
 
 
 
