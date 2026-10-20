@@ -9,7 +9,7 @@ Benedetta prova ad aiutare simone perchè il suo pull non è automatico, e quest
 benedetta sta soffrendo di emicrania, e vede delle macchie, il suo cuore batte ogni tanto, sembra [[pericoloso]] 
 [[Simone]] sta capendo perchè non gli va il [[loop]]
 [[Benedetta]] la deve smettere
-[[Giulia]] sta facendo commit and sync mentre Benedetta perde tempo a cambiare i colori nonostante sia ceca
+[[Giulia]] sta facendo commit and sync mentre Benedetta perde tempo a cambiare i colori nonostante sia cieca
 
 
 
