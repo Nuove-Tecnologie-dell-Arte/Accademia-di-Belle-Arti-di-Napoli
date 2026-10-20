@@ -1,3 +1,12 @@
+[[organizzazione]], [[gestione]]
+se solo ci fosse più organizzazione…
+
+[[organizzazione]], [[artisti]]
+la pessima organizzazione accademica porta al non crescere come artisti individuali
+
+[[accademia]], [[fallimentare]]
+perché l’accademia fa schifo. Non ti dà nulla
+
 [[giustificare]], [[colori]]
 Perché stampi in bianco?
 
