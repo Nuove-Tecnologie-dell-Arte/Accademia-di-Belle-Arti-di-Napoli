@@ -1,3 +1,6 @@
+[[ciao]], [[saluti]]
+ciao
+
 [[gaeta]], [[sconto]]
 Gaeta esci i soldi
 
