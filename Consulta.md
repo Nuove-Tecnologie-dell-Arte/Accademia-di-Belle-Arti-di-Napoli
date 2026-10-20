@@ -1,3 +1,6 @@
+[[ciao]], [[amici]]
+ciao ragazzi!
+
 [[napoli]], [[accademia]]
 Penso che l’accademia ora non sia in grado di formare nuove artiste. Ma Napoli ha tante potenzialità
 
