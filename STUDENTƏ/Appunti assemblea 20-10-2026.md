@@ -58,7 +58,7 @@ Avere la separazione degli spazi e delle sedi rende difficile la creazione di un
 
 [[azione coordinata]] con tutte le accademie d'Italia
 
-abbiamo un [[obiettivo comune]] andare contro il sistema e coinvolgere le persone che sono ormai rassegnate
+abbiamo un [[obiettivo comune]] andare contro il sistema e coinvolgere le persone che sono ormai rassegnate. Non dobbiamo farci dividere, dobbiamo unirci perché la lotta è unica. Dobbiamo lottare e dobbiamo lottare insieme.  
 
 
 
