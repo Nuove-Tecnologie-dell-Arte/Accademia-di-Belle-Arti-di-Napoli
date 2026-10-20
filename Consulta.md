@@ -1,3 +1,6 @@
+[[amicizia]], [[solidarieta]]
+meglio insieme
+
 [[educazione]], [[soddisfazione]]
 Mi sono rotta il cazzo che non funzioni niente , vorrei avere professori competenti ,vorrei ricevere un istruzione degna di essere chiamata tale , vorrei avere voglia di venire qui e non sentirmi xhe sto andando a perdere tempo...
 
