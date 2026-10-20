@@ -17,6 +17,10 @@ Benedetta assume un [[volfast]] dato da Simone che continua a non capire un cazz
 Simone si definisce [[fravecatore]] , ma chiaramente non capisce un cazzo
 [[Stampante]] è un ottimo medium per raccogliere pensieri 
 c'è [[silenzio]] e fortunatamente entra [[kekka]] a riprendere il [[computer]] che aveva lasciato qui, però prima va a riempire la [[borraccia]]
+Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e[[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]] 
+Simone ora sta capendo un po' di più [[assemblea]]
+[[Benedetta]] gli fa male il gallo
+[[kekka]] fa un tocca e fuggi
 
 
 [[STUDENTƏ]]
