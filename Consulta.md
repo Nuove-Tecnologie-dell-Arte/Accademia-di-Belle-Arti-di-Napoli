@@ -1,3 +1,6 @@
+[[organizzazione]], [[studenti]]
+Penso ci sia bisogno di un organizzazione migliore da parte della segreteria su orari,aule, lezioni, assegnazione dei docenti e soprattutto più disponibilità da dare a noi studenti su chiarimenti generali.
+
 [[crisi]], [[catastrofe]]
 puntiamo al disastro
 
