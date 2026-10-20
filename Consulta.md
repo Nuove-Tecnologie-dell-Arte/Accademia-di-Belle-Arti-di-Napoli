@@ -1,3 +1,6 @@
+[[Consulta]], [[Risposta]]
+Consulta merda
+
 [[assemblea]], [[congregazione]]
 buona assemblea a tutti!
 
