@@ -1,0 +1,7 @@
+[[collettivo]]
+[[amici]]
+[[amicizia]]
+[[studenti]]
+[[STUDENTƏ]]
+[[identità]]
+[[solidarietà]]

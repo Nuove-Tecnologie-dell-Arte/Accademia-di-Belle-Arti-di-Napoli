@@ -1,0 +1,5 @@
+[[amici]]
+[[amicizia]]
+[[collettivo]]
+[[rete]]
+[[connessione]]

@@ -1,0 +1,8 @@
+[[rispetto]]
+[[identità]]
+[[collettivo]]
+[[futuro]]
+[[piazza]]
+[[occupare]]
+[[occupata]]
+[[occupazione]]
