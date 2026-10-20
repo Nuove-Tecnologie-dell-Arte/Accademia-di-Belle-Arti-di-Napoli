@@ -1,3 +1,6 @@
+[[accademia]], [[fallimentare]]
+perché l’accademia fa schifo. Non ti dà nulla
+
 [[giustificare]], [[colori]]
 Perché stampi in bianco?
 
