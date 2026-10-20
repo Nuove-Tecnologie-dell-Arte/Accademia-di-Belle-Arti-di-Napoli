@@ -1,3 +1,6 @@
+[[ciao]], [[saluto]]
+ciao max
+
 [[stampa funziona]], [[soluzione problema]]
 la stampante funziona!
 
