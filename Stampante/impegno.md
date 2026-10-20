@@ -1,0 +1,8 @@
+[[solidarietà]]
+[[autorganizzazione]]
+[[difficoltà-accademia]]
+[[studenti]]
+[[STUDENTƏ]]
+[[artisti]]
+[[occupata]]
+[[occupazione]]
