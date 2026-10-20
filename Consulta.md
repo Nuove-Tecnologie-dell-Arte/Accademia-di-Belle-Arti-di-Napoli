@@ -1,3 +1,6 @@
+[[futuro]], [[presente]]
+Forse dovremmo disinnescare il presente per poter pensare ad un futuro possibile!
+
 [[rispetto]], [[accademia]]
 Gli studenti in questa Accademia non vengono rispettati,da nessuno, a partire dai docenti fino agli impiegati in segreteria. Dobbiamo iniziare a pretendere RISPETTO. Siamo degradati da tutti e dobbiamo cominciare a pretendere rispetto
 
