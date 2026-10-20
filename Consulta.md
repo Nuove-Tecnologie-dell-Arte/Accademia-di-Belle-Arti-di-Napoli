@@ -1,4 +1,4 @@
-[[Giuseppe Gaeta]]
+[[fumetto]], [[comics]]
 Geata è na lota.
 
 [[difficoltà-accademia]], [[esclusione-studenti]]
