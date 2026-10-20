@@ -1,3 +1,1 @@
-[[testo]], [[tag]]
-test tag
 
