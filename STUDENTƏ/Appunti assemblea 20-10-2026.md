@@ -49,7 +49,7 @@ la [[manifestazione]] deve avere un [[segno estetico]]
 
 I [[Laboratori]] non si aprono senza docenti. 
 
-Il problema non è chi viene scelto come [[rettore]], 
+Il problema non è chi viene scelto come [[direttore]], 
 ma il [[sistema]] che lo elegge. 
 
 Avere la separazione degli spazi e delle sedi rende difficile la creazione di una [[comunità accademica]]. 
