@@ -1,3 +1,6 @@
+[[educazione]], [[formazione]]
+L'accademia non forma piu artisti ne maestri
+
 [[fragilità]], [[resistenza]]
 ci spezzeremo prima di piegarci
 
