@@ -1,3 +1,6 @@
+[[apprendimento]], [[autonomia]]
+Paghiamo per apprendere e venire guidati, non dovremmo sentirci così smarritə.
+
 [[accademia]], [[organizzazione]]
 L'accademia in sé sembra essere una bella struttura a livello architettonico e sociale, ma l'organizzazione dei corsi, orari ecc... è molto scarsa e non agevola i ragazzi che vengono da altre città
 
