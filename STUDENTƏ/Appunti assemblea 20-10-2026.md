@@ -37,6 +37,12 @@ Serve una [[mobilitazione interna]]
 
 Per intervenire sul nazionale prima devo agire sull'Accademia, non posso dividere e scindere, non si può cambiare il paese senza passare per il locale, e non si può agire sul locale estraniandosi dal contesto globale. 
 
+Tenere fuori le aziende belliche dalle istituzioni. Tutte le [[lotte]] sono necessarie e condivise, è necessaria la [[presenza]] di tutti. 
+
+[[occupare]] per i problemi qua dentro e [[manifestare]] per i problemi là fuori. Cibo, acqua, tende, cuscini, materiali per [[organizzarsi]]
+
+
+
 
 
 [[STUDENTƏ]]
