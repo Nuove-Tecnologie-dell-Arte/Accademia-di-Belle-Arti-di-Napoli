@@ -1,0 +1,5 @@
+[[amicizia]]
+[[impegno]]
+[[uguaglianza]]
+[[rispetto]]
+[[identità]]
