@@ -1,3 +1,6 @@
+[[amma]], [[occupata]]
+Amma occupà!!!
+
 [[fumetto]], [[comics]]
 Geata è na lota.
 
