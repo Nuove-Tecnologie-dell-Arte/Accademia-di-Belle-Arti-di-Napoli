@@ -1,3 +1,6 @@
+[[difficoltà-accademia]], [[esclusione-studenti]]
+Noi siamo della foqus, i professori spesso non sono competenti o non hanno programmi ben strutturati. Non ci sono gli spazi adeguati per la vita di uno studente. Inoltre ci sentiamo un po' esclusi come se non facessimo parte dell'accademia.
+
 [[gramsci]], [[marxismo]]
 Viva Gramsci
 
