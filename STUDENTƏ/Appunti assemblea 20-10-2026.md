@@ -25,7 +25,7 @@ Serve maggiore [[velocità nell'assegnazione dei docenti]] e una [[revisione dei
 
 [[Rendere pubblici i bilanci dell'Accademia]]
 
-L'Accademia e il suo direttore hanno un posizionamento politico, non parliamo di questi problemi solo nelle assemblee, ma portiamole in piazza. 
+L'Accademia e il suo direttore hanno un posizionamento politico, non parliamo di questi problemi solo nelle assemblee, ma portiamole in [[piazza]]. 
 
 Ci stanno levando il diritto di vivere 
 
