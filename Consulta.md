@@ -1,3 +1,9 @@
+[[visione]], [[perspettiva]]
+La mia visione:
+
+[[prova]], [[test]]
+Prova
+
 [[accademia]], [[critica]]
 L'accademia merita di meglio
 

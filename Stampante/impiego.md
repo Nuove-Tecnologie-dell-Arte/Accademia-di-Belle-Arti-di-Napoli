@@ -1,0 +1,2 @@
+[[occupazione]]
+[[occupata]]
