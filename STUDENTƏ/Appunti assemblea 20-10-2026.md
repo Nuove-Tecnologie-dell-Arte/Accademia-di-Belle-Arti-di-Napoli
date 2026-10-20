@@ -45,15 +45,16 @@ Una richiesta è sempre stata di lasciare l'[[accademia aperta dopo le 5]], perc
 
 [[Boicottiamo]]
 
-la manifestazione deve avere un [[segno estetico]]
+la [[manifestazione]] deve avere un [[segno estetico]]
 
-I Laboratori non si aprono senza docenti. 
+I [[Laboratori]] non si aprono senza docenti. 
 
 Il problema non è chi viene scelto come [[direttore 1]], 
 ma il [[sistema]] che lo elegge. 
-Il problema non è chi viene scelto come [[Tag Assemblea/direttore]], ma il [[sistema]] che lo elegge. 
 
+Avere la separazione degli spazi e delle sedi rende difficile la creazione di una [[comunità accademica]]. 
 
+[[controcena]]
 
 [[STUDENTƏ]]
 
