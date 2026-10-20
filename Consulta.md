@@ -1,3 +1,6 @@
+[[gioco]], [[salvagente]]
+giogliegliere
+
 [[occupazione]], [[quotazioni]]
 quoto l’occupazione
 
