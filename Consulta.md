@@ -1,3 +1,6 @@
+[[accademia]], [[critica]]
+L'accademia merita di meglio
+
 [[ciao]], [[messaggio]]
 Ciaoo
 
