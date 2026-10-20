@@ -1,3 +1,6 @@
+[[ciao]], [[messaggio]]
+Ciaoo
+
 [[amicizia]], [[solidarieta]]
 meglio insieme
 
