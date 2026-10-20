@@ -1,3 +1,6 @@
+[[solidarietà]], [[amici]]
+Non sarete mai soli
+
 [[aiuto]], [[solidarietà]]
 per tutti coloro che soffrono mentalmente per questa realtà, ricordatevi che non siete soli <3
 
