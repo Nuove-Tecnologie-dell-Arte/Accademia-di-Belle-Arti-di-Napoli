@@ -1,3 +1,0 @@
-
-
-[[Sostenibilità ambientale]]
