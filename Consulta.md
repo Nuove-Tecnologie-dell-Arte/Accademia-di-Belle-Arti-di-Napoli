@@ -1,3 +1,6 @@
+[[scansione]], [[documenti]]
+Nono, dobbiamo scannare lui invece
+
 [[scansione]], [[lavoro]]
 ci dobbiamo scannare col direttore
 
