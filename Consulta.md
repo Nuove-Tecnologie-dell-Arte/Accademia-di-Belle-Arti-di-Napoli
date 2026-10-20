@@ -1,3 +1,6 @@
+[[parole]], [[linguaggio]]
+parole parole parole
+
 [[emoticon]], [[sorriso]]
 Daiiii
 
