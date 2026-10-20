@@ -1,3 +1,6 @@
+[[esplosione]], [[drammatico]]
+BOOM
+
 [[educazione]], [[formazione]]
 L'accademia non forma piu artisti ne maestri
 
