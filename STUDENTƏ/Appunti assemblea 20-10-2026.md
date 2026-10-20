@@ -9,7 +9,11 @@ Giusto arrivare alla parità di stipendio per docenti accademici e universitari,
 
 Stanno smantellando l'intera comunità dei nostri professori. Gli [[orari]] cambiano ogni giorno. Al primo anno le lezioni erano principalmente teoriche, quello che mi aspetto è [[imparare a vivere come artista]] fuori, voglio sapere che in questa città l'arte è viva. Voglio uscirne come artista. [[Workshop]] 
 
-Quali sono le proposte? Cosa può fare l'accademia o i docenti per formarci da artisti? Nessuno dei docenti ci ha mai insegnato come funziona fuori. 
+Quali sono le proposte? Cosa può fare l'accademia o i docenti per formarci da artisti? Nessuno dei docenti ci ha mai insegnato come funziona fuori. Ripartiamo dai laboratori? 
+
+Ci manca la [[rete]] e la [[connessione]] in Accademia. L'agevolazione per i [[pacchetti Adobe]] c'è solo per i docenti 
+
+
 
 
 [[STUDENTƏ]]
