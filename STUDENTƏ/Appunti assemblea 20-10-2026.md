@@ -41,7 +41,13 @@ Tenere fuori le aziende belliche dalle istituzioni. Tutte le [[lotte]] sono nece
 
 [[occupare]] per i problemi qua dentro e [[manifestare]] per i problemi là fuori. Cibo, acqua, tende, cuscini, materiali per [[organizzarsi]] . Mi fa piacere ci sia un [[collettivo]] attivo. 
 
-Una richiesta è sempre stata di lasciare l'[[accademia aperta dopo le 5]], perchè abbiamo bisogno di [[spazi collettivi]] . 
+Una richiesta è sempre stata di lasciare l'[[accademia aperta dopo le 5]], perchè abbiamo bisogno di [[spazi collettivi]] . Perché allora il tavolo di contrattazione UNESCO può essere fatto la sera in Galleria , che è un luogo dove noi non possiamo entrare con gli zaini per non rovinare le opere.
+
+[[Boicottiamo]]
+
+la manifestazione deve avere un [[segno estetico]]
+
+I Laboratori non si aprono senza docenti. 
 
 
 
