@@ -31,7 +31,7 @@ Ci stanno levando il diritto di vivere. [[Pretendiamo i diritti fondamentali]]
 
 Dobbiamo occupare questi luoghi [[occupazione]] cosa facciamo all'interno di questi [[spazi]] occupati?
 
-Tutto il potere è centralizzato nelle mani del direttore. Le informazioni non passano, sembra che nessuno sappia niente, né la segreteria, nè i docenti. [[Disorganizzazione interna]]
+Tutto il [[potere]] è centralizzato nelle mani del direttore. Le [[informazioni]] non passano, sembra che nessuno sappia niente, né la segreteria, nè i docenti. [[Disorganizzazione interna]]
 
 Serve una [[mobilitazione interna]]
 
