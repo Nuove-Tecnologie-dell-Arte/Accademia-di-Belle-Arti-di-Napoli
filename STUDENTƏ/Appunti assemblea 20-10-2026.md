@@ -54,7 +54,11 @@ ma il [[sistema]] che lo elegge.
 
 Avere la separazione degli spazi e delle sedi rende difficile la creazione di una [[comunità accademica]]. 
 
-[[controcena]]
+[[controcena]] venerdì!
+
+
+
+
 
 [[STUDENTƏ]]
 
