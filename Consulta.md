@@ -1,3 +1,6 @@
+[[assemblea]], [[congregazione]]
+buona assemblea a tutti!
+
 [[ciao]], [[amici]]
 ciao ragazzi!
 
