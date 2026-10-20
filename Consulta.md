@@ -1,3 +1,6 @@
+[[accademia]], [[organizzazione]]
+L'accademia in sé sembra essere una bella struttura a livello architettonico e sociale, ma l'organizzazione dei corsi, orari ecc... è molto scarsa e non agevola i ragazzi che vengono da altre città
+
 [[futuro]], [[presente]]
 Forse dovremmo disinnescare il presente per poter pensare ad un futuro possibile!
 
