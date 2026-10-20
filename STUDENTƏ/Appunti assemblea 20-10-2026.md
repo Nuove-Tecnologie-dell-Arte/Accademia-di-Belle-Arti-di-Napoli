@@ -15,6 +15,8 @@ Ci manca la [[rete]] e la [[connessione]] in Accademia. L'agevolazione per i [[p
 
 Non abbiamo [[fondi]]  [[materiale]] e [[finanziamenti]] 
 
+La [[Galleria]] dell'Accademia non valorizza gli studenti
+
 
 
 
