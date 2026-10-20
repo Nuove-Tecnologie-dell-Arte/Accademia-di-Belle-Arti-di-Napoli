@@ -56,6 +56,8 @@ Avere la separazione degli spazi e delle sedi rende difficile la creazione di un
 
 [[controcena]] venerdì!
 
+[[azione coordinata]] con tutte le accademie d'Italia
+
 
 
 
