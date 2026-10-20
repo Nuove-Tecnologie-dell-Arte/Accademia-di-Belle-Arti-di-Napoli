@@ -19,6 +19,10 @@ La [[Galleria]] dell'Accademia non valorizza gli studenti.
 
 Più che dai docenti imparo tramite gli studenti. [[apprendimento orizzontale]]
 
+Serve maggiore [[velocità nell'assegnazione dei docenti]]
+
+
+
 
 
 
