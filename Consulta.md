@@ -1,3 +1,6 @@
+[[occupazione]], [[quotazioni]]
+quoto l’occupazione
+
 [[amma]], [[occupata]]
 Amma occupà!!!
 
