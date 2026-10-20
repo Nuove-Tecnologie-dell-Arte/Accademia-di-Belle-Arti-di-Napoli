@@ -1,0 +1,3 @@
+[[lotte]]
+[[rivoluzione]]
+[[piazza]]
