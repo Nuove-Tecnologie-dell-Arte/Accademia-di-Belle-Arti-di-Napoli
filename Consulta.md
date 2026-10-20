@@ -1,3 +1,6 @@
+[[giustificare]], [[colori]]
+Perché stampi in bianco?
+
 [[prova]], [[test]]
 Prova
 
