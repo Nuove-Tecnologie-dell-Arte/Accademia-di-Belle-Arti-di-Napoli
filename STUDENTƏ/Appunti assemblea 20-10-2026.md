@@ -1,32 +1,4 @@
 
-Mi è venuta l'emicrania porco il dio
-Voglio occupare l'accademia [[assemblea]] [[occupazione]]
- 
-Bendetta sta mettendo i tag che simone crea e ha fatto la cartella [[tag]] assemblea
-A simone non funziona niente, e chiede se ha messo i tag assemblea apparte.
-Simone li ha trovati.
-Benedetta prova ad aiutare simone perchè il suo pull non è automatico, e questo è un [[problema]]
-benedetta sta soffrendo di emicrania, e vede delle macchie, il suo cuore batte ogni tanto, sembra [[pericoloso]] 
-[[Simone]] sta capendo perchè non gli va il [[loop]]
-[[Benedetta]] la deve smettere
-[[Giulia]] sta facendo commit and sync mentre Benedetta perde tempo a cambiare i colori nonostante sia cieca
-Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e [[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]] 
-Simone ora sta capendo un po' di più 
-Ora proporrò alle mie [[compagne]] di struggle di parlare dell'accademia e fare qualche [[prova]] più sensata
-Benedetta assume un [[volfast]] dato da Simone che continua a non capire un cazzo. [[kekko]] entra in scena, e siamo tutti più [[felici]] 
-Simone si definisce [[fravecatore]] , ma chiaramente non capisce un cazzo
-[[Stampante]] è un ottimo medium per raccogliere pensieri 
-c'è [[silenzio]] e fortunatamente entra [[kekka]] a riprendere il [[computer]] che aveva lasciato qui, però prima va a riempire la [[borraccia]]
-Simone non sta capendo nulla, [[Assia]] ha rotto la [[bomboniera]] di Vincenzo per Simongini, e[[Patty]] si è spaccata la [[testa]] alla fine noi [[puntiamo al disastro]] 
-Simone ora sta capendo un po' di più [[assemblea]]
-[[Benedetta]] gli fa male il gallo
-[[kekka]] fa un tocca e fuggi
-Quanta roba hai scritto si chiede simone
-Assia chiede cosa stiamo facendo
-stasera si vede [[streetfighter]] con [[alfredo]] e [[federica]]
-Benedetta è un paio di anni che soffre di cefalea, e qualsiasi medicinale non fa passare il  mal di testa, ha provato in più fasi del sintomo, ora prova a prenderlo tra la fine della macchia e l'inizio del mal di testa, sperimenta sul suo corpo.
-entra gaia, e mi chiede se [[carlo]] è affidabile, la risposta di assia è [[no]]
-Entra [[franz]] e sospira
 [[STUDENTƏ]]
 
 [[Consulta]]
