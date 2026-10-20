@@ -1,3 +1,6 @@
+[[stampa funziona]], [[soluzione problema]]
+la stampante funziona!
+
 [[speranza]], [[buone novità]]
 se nel mondo esistesse un po di bene…
 
