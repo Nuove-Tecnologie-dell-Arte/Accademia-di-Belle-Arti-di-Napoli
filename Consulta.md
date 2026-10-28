@@ -1,3 +1,75 @@
+[[messaggio]], [[sms]]
+mammt è a mi
+
+[[ascolto]], [[comunicazione]]
+ci ascoltiamo
+
+[[casa]], [[ritorno]]
+abbiamo una casa in cui poter tornare
+
+[[piazze]], [[riempimento]]
+le piazze tornano piene
+
+[[apertura]], [[coscienza]]
+apriamo gli occhi
+
+[[sonno]], [[tranquillità]]
+possiamo dormire sonni tranquilli
+
+[[solidarietà]], [[aiuto]]
+ci prendiamo cura gli uni degli altri
+
+[[identità]], [[pluralismo]]
+io diventa noi
+
+[[crescita]], [[sviluppo]]
+possiamo crescere
+
+[[felicità]], [[gioia]]
+siamo felici
+
+[[salute alimentare]], [[cibo]]
+mangiamo bene
+
+[[sonno]], [[tranquillità]]
+possiamo dormire sonni tranquilli
+
+[[solidarietà]], [[empatia]]
+ci prendiamo cura degli altri
+
+[[rumore]], [[intervento]]
+facciamo rumore
+
+[[positivismo]], [[ottimismo]]
+pensiamo positivo
+
+[[movimento]], [[sviluppo]]
+continuiamo a muoverci
+
+[[futuro]], [[sviluppo]]
+costruiamo un futuro
+
+[[guerra]], [[scontro]]
+combattiamo insieme
+
+[[comunita]], [[condivisione]]
+creiamo comunità
+
+[[amore]], [[solidarietà]]
+diffondiamo amore
+
+[[amore]], [[movimento]]
+Ci muoviamo per amore
+
+[[rifiuto]], [[igiene]]
+cacca
+
+[[basta]], [[abbastanza]]
+basta
+
+[[stampa]], [[documento]]
+Stampaaaaaaaa
+
 [[esplosione]], [[fuoco]]
 BOOM
 
